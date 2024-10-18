@@ -13,9 +13,10 @@
 - 📊 Familiarisé avec les meilleures pratiques de sécurité pour le développement de logiciels et les infrastructures cloud.
 
 **💻 Langages & Technologies :**
-- 💾 **Langages** : Python, Bash, PowerShell, JavaScript, C/C++
-- 🔐 **Outils & Frameworks** : Kali Linux, Metasploit, Nessus, Wireshark, Snort
-- ☁️ **Cloud Security** : AWS, Azure, GCP
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 **🛠️ Projets Notables :**
 - **[Nom du projet 1](lien-du-projet)** : Un scanner de vulnérabilités basé sur Python pour détecter les failles dans les réseaux locaux.
