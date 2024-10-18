@@ -8,7 +8,6 @@
 
 **🌐 À propos de moi :**
 - 🔍 Expert en analyse de vulnérabilités, tests de pénétration, et gestion des risques.
-- 🏆 Certifié [Certifications pertinentes, par exemple : CEH, OSCP, CISSP].
 - 🛠️ Expérience avec divers outils de cybersécurité tels que **Nmap**, **Wireshark**, **Metasploit**, **Burp Suite**, et plus encore.
 - 📊 Familiarisé avec les meilleures pratiques de sécurité pour le développement de logiciels et les infrastructures cloud.
 
@@ -22,7 +21,7 @@
 - **[Nom du projet 1](lien-du-projet)** : Un scanner de vulnérabilités basé sur Python pour détecter les failles dans les réseaux locaux.
 - **[Nom du projet 2](lien-du-projet)** : Un framework de tests de pénétration automatisés pour les applications web.
 - **[Nom du projet 3](lien-du-projet)** : Un script de surveillance réseau en temps réel utilisant Wireshark et Python.
-
+<!--
 **📚 Certifications :**
 - 🏅 [Certification 1] - Année
 - 🏅 [Certification 2] - Année
@@ -30,15 +29,17 @@
 **🔍 Mes recherches et publications :**
 - **[Titre de la publication](lien)** : Résumé rapide de la publication.
 - **[Titre de la présentation/conférence](lien)** : Résumé rapide de la présentation/conférence.
-
+-->
 **🌱 Toujours en apprentissage :**
 - Sécurité des applications mobiles
 - Techniques de détection et réponse aux incidents (EDR/XDR)
 - Sécurité dans les environnements DevOps (DevSecOps)
 
 **📫 Contactez-moi :**
-- 📨 Email : [Email](g_ouali@estin.dz)
+- 📨 Email : [Votre Email](g_ouali@estin.dz)
 - 💼 LinkedIn : [Votre Profil LinkedIn](www.linkedin.com/in/ghiles-ouali)
 - 🐦 Twitter : [Votre Twitter](https://x.com/ouali_ghilass06/with_replies)
+![Twitter](https://img.shields.io/twitter/follow/your_username?style=social)
+
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de cybersécurité, de nouveaux projets ou collaborations. 👾
