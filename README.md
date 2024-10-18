@@ -15,13 +15,13 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
+<!--
 
 **🛠️ Projets Notables :**
 - **[Nom du projet 1](lien-du-projet)** : Un scanner de vulnérabilités basé sur Python pour détecter les failles dans les réseaux locaux.
 - **[Nom du projet 2](lien-du-projet)** : Un framework de tests de pénétration automatisés pour les applications web.
 - **[Nom du projet 3](lien-du-projet)** : Un script de surveillance réseau en temps réel utilisant Wireshark et Python.
-<!--
+
 **📚 Certifications :**
 - 🏅 [Certification 1] - Année
 - 🏅 [Certification 2] - Année
@@ -40,6 +40,10 @@
 - 💼 LinkedIn : [GHILES](www.linkedin.com/in/ghiles-ouali)
 - 🐦 Twitter : [GHILES](https://x.com/ouali_ghilass06/with_replies)
 
+## Stats
 
+<!---[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H3xKatana&layout=compact&theme=dark)](https://github.com/H3xKatana) --->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=H3xKatana&show_icons=true&theme=dark)](https://github.com/ghiles-ouali)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=H3xKatana&theme=dark)](https://github.com/ghiles-ouali)
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de cybersécurité, de nouveaux projets ou collaborations. 👾
