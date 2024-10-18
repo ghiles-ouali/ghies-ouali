@@ -36,10 +36,10 @@
 - Sécurité dans les environnements DevOps (DevSecOps)
 
 **📫 Contactez-moi :**
-- 📨 Email : [Votre Email](g_ouali@estin.dz)
-- 💼 LinkedIn : [Votre Profil LinkedIn](www.linkedin.com/in/ghiles-ouali)
-- 🐦 Twitter : [Votre Twitter](https://x.com/ouali_ghilass06/with_replies)
-![Twitter](https://img.shields.io/twitter/follow/your_username?style=social)
+- 📨 Email : [GHILES](g_ouali@estin.dz)
+- 💼 LinkedIn : [GHILES](www.linkedin.com/in/ghiles-ouali)
+- 🐦 Twitter : [GHILES](https://x.com/ouali_ghilass06/with_replies)
+
 
 
 Merci de visiter mon profil ! N'hésitez pas à me contacter pour discuter de cybersécurité, de nouveaux projets ou collaborations. 👾
